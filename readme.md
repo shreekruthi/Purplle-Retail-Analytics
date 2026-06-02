@@ -554,7 +554,7 @@ BILLING_QUEUE_JOIN
 ```
 
 ---
-
+# Sample CCTV videos were provided as part of the challenge dataset and are intentionally excluded from the repository because of GitHub file size limits.
 
 # Assumptions
 

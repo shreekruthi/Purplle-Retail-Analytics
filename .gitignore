@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.env
+
+data/*.mp4
+
+pipeline/events.jsonl
+pipeline/output.jpg
+pipeline/yolov8n.pt
+
+.vscode/
